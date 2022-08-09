@@ -1,4 +1,10 @@
-### Hi there 👋
+![Dang Quang Vu Channels](https://i.ibb.co/Yy8MD1H/Logo-copy.jpg)
+
+# Dang Quang Vu - FullStack Blockchain Developer, Web3 Trainer
+
+- Love to learn new things, especially things related to Fullstacks.
+
+## <a href="https://ibb.co/s6QG5N8"><img src="https://i.ibb.co/Yy8MD1H/Logo-copy.jpg" alt="Logo-copy" border="0"></a>
 
 <!--
 **vugomars/vugomars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
