@@ -1,4 +1,4 @@
-![Dang Quang Vu Channels](https://i.ibb.co/Yy8MD1H/Logo-copy.jpg)
+![Dang Quang Vu Channels](https://i.ibb.co/Kb7cxwV/banner.jpg)
 
 # Dang Quang Vu - FullStack Blockchain Developer, Web3 Trainer
 
