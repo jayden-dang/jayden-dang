@@ -38,4 +38,6 @@ Find me around the web:
 
 <div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=vugomars&theme=dark&fire=DD2727&ring=DD2727&currStreakNum=DD2727&border=DD2727&stroke=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
+<br/>
+![Dang Quang Vu](https://github-readme-stats.vercel.app/api?vugomars=anuraghazra&show_icons=true&theme=transparent)
 </div>
