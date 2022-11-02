@@ -7,6 +7,10 @@
   <a href="https://twitter.com/vugomars">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <br/>
+  <a href="https://youtube.com/@vugomars">
+    vugomars.com
+  </a>
 </div>
 
 ---
