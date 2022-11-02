@@ -35,4 +35,4 @@ Find me around the web:
 - Learning in public on <a href="https://youtube.com/@blockofvu">Youtube</a> or <a href="https://vugomars.com/">vugomars</a> or <a href="https://dev.to/vugomars">dev.to/vugomars</a>
 
 -----------------------
-[![GitHub Streak](https://streak-stats.demolab.com?user=vugomars&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vugomars&theme=dark&fire=DD2727&ring=DD2727&currStreakNum=DD2727&border=DD2727&stroke=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
