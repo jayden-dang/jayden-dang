@@ -32,7 +32,7 @@
 Find me around the web:
 -----------------------
 
-- Learning in public on <a href="https://youtube.com/@blockofvu">Youtube</a> or <a href="https://vugomars.com/">vugomars</a> or <a href="https://dev.to/vugomars">dev.to/vugomars</a>
+- Learning in public on <a href="https://youtube.com/@blockofvu">Youtube</a> or <a href="https://vugomars.com/">vugomars</a>
 
 -----------------------
 
