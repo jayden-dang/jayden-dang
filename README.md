@@ -39,3 +39,5 @@ Find me around the web:
 [![GitHub Streak](https://streak-stats.demolab.com?user=vugomars&theme=dark&fire=DD2727&ring=DD2727&currStreakNum=DD2727&border=DD2727&stroke=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
 ---
 ![Dang Quang Vu stats](https://github-readme-stats.vercel.app/api?username=vugomars&show_icons=true&bg_color=00000000)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vugomars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
