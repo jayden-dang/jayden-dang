@@ -6,6 +6,15 @@
   <a href="https://youtube.com/@vugomars">Youtube</a>
 </p>
 
+<div id="badges">
+  <a href="https://youtube.com/@vugomars">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/vugomars">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ---
 
 **About Me**
@@ -15,10 +24,10 @@
 ---
 
 - Some technologies i enjoy working with include:
-  - Front-end: ReactJs / NextJs / Yew
-  - Back-end: Nodejs / Actix / Rocket
-  - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos(still learning).
-  - Languages: Lisp / Javascript / **Typescript** / **Rust** / *Move*
+ - Front-end: ReactJs / NextJs / Yew
+ - Back-end: Nodejs / Actix / Rocket
+ - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos(still learning).
+ - Languages: Lisp / Javascript / **Typescript** / **Rust** / *Move*
 
 ---
 
