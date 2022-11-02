@@ -1,12 +1,6 @@
 <h3 align="center">👋   Hello! I'm Vu   👋 <br/> Fullname is "Dang Quang Vu" </h3>
 
-<p align="center">
-  <a href="https://vugomars.com">Blog</a> •
-  <a href="https://twitter.com/vugomars">Twitter</a> •
-  <a href="https://youtube.com/@vugomars">Youtube</a>
-</p>
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://youtube.com/@vugomars">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
