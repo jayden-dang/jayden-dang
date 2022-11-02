@@ -1,4 +1,4 @@
-<h3 align="center">👋   Hello! I'm Vu   👋 <br/> Fullname is "Dang Quang Vu" </h3>
+<h3 align="center">👋   Hello! I'm Vu   👋 <br/> "Dang Quang Vu" </h3>
 
 <div id="badges" align="center">
   <a href="https://youtube.com/@blockofvu">
