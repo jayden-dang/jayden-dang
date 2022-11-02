@@ -25,7 +25,7 @@
  - Front-end: ReactJs / NextJs / Yew
  - Back-end: Nodejs / Actix / Rocket
  - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos(still learning).
- - Languages: Lisp / Javascript / **Typescript** / **Rust** / *Move*
+ - Languages: Emacs Lisp / Javascript / **Typescript** / **Rust** / *Move*
 
 ---
 
