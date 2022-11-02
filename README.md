@@ -1,14 +1,14 @@
 <h3 align="center">👋   Hello! I'm Vu   👋 <br/> Fullname is "Dang Quang Vu" </h3>
 
 <div id="badges" align="center">
-  <a href="https://youtube.com/@vugomars">
+  <a href="https://youtube.com/@blockofvu">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/vugomars">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br/>
-  <a href="https://youtube.com/@vugomars">
+  <a href="https://vugomars.com/">
     vugomars.com
   </a>
 </div>
@@ -32,4 +32,4 @@
 Find me around the web:
 -----------------------
 
-- Learning in public on <a href="https://youtube.com/@vugomars">Youtube</a> or <a href="https://vugomars.com/">vugomars</a> or <a href="https://dev.to/vugomars">dev.to/vugomars</a>
+- Learning in public on <a href="https://youtube.com/@blockofvu">Youtube</a> or <a href="https://vugomars.com/">vugomars</a> or <a href="https://dev.to/vugomars">dev.to/vugomars</a>
