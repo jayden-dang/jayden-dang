@@ -21,7 +21,7 @@
 
 ---
 **About Me**
-- I'm a *Blockchain Developer* on Viet Nam. Currently, I am also a lecturer on blockchain programming at VBI and a Section Manager at GFI Ventures. I started programming and researching blockchain since 2017,
+- I'm a *Blockchain Developer* on Viet Nam, Founder of W3Learning & Social Outsourcing. Currently, I am also a lecturer on blockchain programming at VBI and a Section Manager at GFI Ventures. I started programming and researching blockchain since 2017,
 - I have a passionate about making contributing to open-source more appoachable, creating technology about Blockchain to make elevate technology on Vietnam.
 ---
 - Some technologies i enjoy working with include:
