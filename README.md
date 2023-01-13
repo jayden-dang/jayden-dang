@@ -35,7 +35,3 @@ Find me around the web:
 -----------------------
 - Learning in public on <a href="https://youtube.com/@blockofvu">Youtube</a> or <a href="https://vugomars.com/">vugomars</a>
 -----------------------
-
-![Dang Quang Vu stats](https://github-readme-stats.vercel.app/api?username=vugomars&show_icons=true&bg_color=00000000)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vugomars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
