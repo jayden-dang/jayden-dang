@@ -29,7 +29,7 @@
  - Back-end: Nodejs / Actix / Rocket
  - Database: MongoDb / MySQL / PostgreSQL
  - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos(still learning).
- - Languages: Emacs Lisp / Javascript / **Typescript** / **Rust** / *Move*
+ - Languages: Emacs Lisp / Javascript / **Typescript** / **Rust** / *Move* / *Solidity* / Cadance
 ---
 Find me around the web:
 -----------------------
