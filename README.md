@@ -1,16 +1,16 @@
 <h3 align="center">👋   Hello! I'm Vu   👋 <br/> "Dang Quang Vu" </h3>
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/vugomars">
+  <a href="https://twitter.com/eamondang">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://youtube.com/@blockofvu">
+  <a href="https://youtube.com/@eamontech">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://facebook.com/dangquangvu94">
+  <a href="https://facebook.com/eamondang">
     <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://t.me/dangquangvu">
+  <a href="https://t.me/eamondang">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <br/>
