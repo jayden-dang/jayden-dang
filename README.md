@@ -26,9 +26,9 @@
 ---
 - Some technologies i enjoy working with include:
  - Front-end: ReactJs / NextJs / Yew
- - Back-end: Nodejs / Actix / Rocket
+ - Back-end: Nodejs / Actix / Axum / Rocket
  - Database: MongoDb / MySQL / PostgreSQL
- - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos / SUI
+ - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos / SUI / Cosmos / Polkadot / Zero-knowledge Proofs
  - Languages: Emacs Lisp / Javascript / **Typescript** / **Rust** / *Move* / *Solidity* / Cadance
 ---
 Find me around the web:
