@@ -14,9 +14,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <br/>
-  <a href="https://vugomars.com/">
-    vugomars.com
-  </a>
 </div>
 
 ---
