@@ -18,17 +18,17 @@
 
 ---
 **About Me**
-- I'm a *Blockchain Developer* on Viet Nam, Founder of W3Learning & Social Outsourcing. Currently, I am also a lecturer on blockchain programming at VBI and a Section Manager at GFI Ventures. I started programming and researching blockchain since 2017,
+- I'm a *Blockchain Developer* on Viet Nam, Founder of Crusaders Chain & CrusEdu Platform. Currently, I am also a lecturer on blockchain programming at VBI and a Head of Technical at GFI Ventures. I started programming and researching blockchain since 2017,
 - I have a passionate about making contributing to open-source more appoachable, creating technology about Blockchain to make elevate technology on Vietnam.
 ---
 - Some technologies i enjoy working with include:
  - Front-end: ReactJs / NextJs / Yew
- - Back-end: Nodejs / Actix / Axum / Rocket
+ - Back-end: Nodejs / Actix / Axum 
  - Database: MongoDb / MySQL / PostgreSQL
- - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos / SUI / Cosmos / Polkadot / Zero-knowledge Proofs
+ - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos / SUI / Cosmos / Polkadot / Zero-knowledge Proofs /...
  - Languages: Emacs Lisp / Javascript / **Typescript** / **Rust** / *Move* / *Solidity* / Cadance
 ---
 Find me around the web:
 -----------------------
-- Learning in public on <a href="https://youtube.com/@blockofvu">Youtube</a> or <a href="https://vugomars.com/">vugomars</a>
+- Learning in public on <a href="https://youtube.com/@eamontech">Youtube</a>
 -----------------------
