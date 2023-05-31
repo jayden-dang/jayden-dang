@@ -22,7 +22,7 @@
 - I have a passionate about making contributing to open-source more appoachable, creating technology about Blockchain to make elevate technology on Vietnam.
 ---
 - Some technologies i enjoy working with include:
- - Front-end: ReactJs / NextJs / Yew
+ - Front-end: ReactJs / NextJs / Yew ( Just Try )
  - Back-end: Nodejs / Actix / Axum 
  - Database: MongoDb / MySQL / PostgreSQL
  - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos / SUI / Cosmos / Polkadot / Zero-knowledge Proofs /...
