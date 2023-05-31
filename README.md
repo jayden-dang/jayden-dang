@@ -26,7 +26,8 @@
  - Back-end: Node.js / Axum 
  - Database: MongoDb / MySQL / PostgreSQL
  - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos / SUI / Cosmos / Polkadot / Zero-knowledge Proofs /...
- - Languages: Emacs Lisp / Javascript / **Typescript** / **Rust** / *Move* / *Solidity* / Cadance
+ - Major Languages: **Typescript** / **Rust** / *Move* / *Solidity*
+ - Languages: Emacs Lisp / Javascript / Cadance / Leo
 ---
 Find me around the web:
 -----------------------
