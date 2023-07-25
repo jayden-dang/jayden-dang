@@ -18,7 +18,7 @@
 
 ---
 **About Me**
-- I'm a *Blockchain Developer* on Viet Nam, Founder of Crusaders Chain & CrusEdu Platform. Currently, I am also a lecturer on blockchain programming at VBI and a Head of Technical at GFI Ventures. I started programming and researching blockchain since 2017,
+- I'm a *Blockchain Developer* on Viet Nam, Founder of VBI-Education Platform. Currently, I am also a lecturer on blockchain programming at VBI and a Head of Technical at GFI Ventures. I started programming and researching blockchain since 2017,
 - I have a passionate about making contributing to open-source more appoachable, creating technology about Blockchain to make elevate technology on Vietnam.
 ---
 - Some technologies i enjoy working with include:
