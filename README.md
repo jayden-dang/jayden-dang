@@ -22,10 +22,10 @@
 - I have a passionate about making contributing to open-source more appoachable, creating technology about Blockchain to make elevate technology on Vietnam.
 ---
 - Some technologies i enjoy working with include:
- - Front-end: ReactJs / NextJs / Yew ( Just Try )
- - Back-end: Node.js / Axum 
- - Database: MongoDb / MySQL / PostgreSQL
- - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos / SUI / Cosmos / Polkadot / Zero-knowledge Proofs /...
+ - Front-end: ReactJs / NextJs / Leptos
+ - Back-end: Node.js / Nest.js / Axum 
+ - Database: Mongo.Db / MySQL / PostgreSQL
+ - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos / SUI / Cosmos / Polkadot / Zero-knowledge Proofs (Aleo) /...
  - Major Languages: **Typescript** / **Rust** / *Move* / *Solidity*
  - Languages: Emacs Lisp / Javascript / Cadance / Leo
 ---
