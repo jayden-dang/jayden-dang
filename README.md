@@ -1,5 +1,5 @@
 <h3 align="center">👋   Hello! I'm Vu   👋 <br/> "Dang Quang Vu" </h3>
-<h3 align="center">👋  Developer Relations Engineer at Movement Labs 👋  <br/>   <a href="[https://twitter.com/jayden_dangvu](https://www.linkedin.com/in/jayden-dangvu/)" target="_blank" >Linked In</a></h3>
+<h3 align="center">👋  Developer Relations Engineer at Movement Labs 👋  <br/>   <a href="https://www.linkedin.com/in/jayden-dangvu/" target="_blank" >Linked In</a></h3>
 
 
 <div id="badges" align="center">
@@ -20,7 +20,7 @@
 
 ---
 **About Me**
-- I'm a software engineer with six years of experience in the web3 space. I've worked with a variety of platforms and ecosystems like Ethereum, Solana, Near, Aptos, Sui, and more. I've been lucky enough to be the lead instructor for several web3 programming courses run by major foundations in Vietnam, including Mysten Labs (Sui Foundation), NEAR Foundation, and Algorand Foundation.
+- I'm a **Developer Relations Engineer** with six years of experience in the web3 space. I've worked with a variety of platforms and ecosystems like Ethereum, Solana, Near, Aptos, Sui, and more. I've been lucky enough to be the lead instructor for several web3 programming courses run by major foundations in Vietnam, including Mysten Labs (Sui Foundation), NEAR Foundation, and Algorand Foundation.
 
 ---
 Find me around the web:
