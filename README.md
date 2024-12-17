@@ -1,4 +1,6 @@
 <h3 align="center">👋   Hello! I'm Vu   👋 <br/> "Dang Quang Vu" </h3>
+<h3 align="center">👋  Developer Relations Engineer at Movement Labs 👋  <br/>   <a href="[https://twitter.com/jayden_dangvu](https://www.linkedin.com/in/jayden-dangvu/)" target="_blank" >Linked In</a></h3>
+
 
 <div id="badges" align="center">
   <a href="https://twitter.com/jayden_dangvu" target="_blank" >
@@ -18,8 +20,7 @@
 
 ---
 **About Me**
-- I'm a *Smart Contract/Blockchain Engineer* on Viet Nam. I am also a Head of Faculty at VBI and a Technical Lead at GFI Ventures. I started programming and researching blockchain since 2017,
-- I have a passionate about making contributing to open-source more appoachable, creating technology about Blockchain to make elevate technology on Vietnam.
+- I'm a software engineer with six years of experience in the web3 space. I've worked with a variety of platforms and ecosystems like Ethereum, Solana, Near, Aptos, Sui, and more. I've been lucky enough to be the lead instructor for several web3 programming courses run by major foundations in Vietnam, including Mysten Labs (Sui Foundation), NEAR Foundation, and Algorand Foundation.
 
 ---
 Find me around the web:
